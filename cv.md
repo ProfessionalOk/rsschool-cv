@@ -1,5 +1,4 @@
 # Olha K
-____
 #### CONTACTS
 + Adress: Ukraine
 + Phone: XXXXXXXXXX
