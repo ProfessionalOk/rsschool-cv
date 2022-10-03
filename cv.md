@@ -6,8 +6,8 @@
 + GitHub: [ProfessionalOk](https://github.com/ProfessionalOk)
   <br>
   ### About me
-I am a graphic designer, social media designer.
-I am from Ukraine.
+I am a graphic designer, social media designer.<br/>
+I am from Ukraine.<br/>
 I work well in a team and I am very willing to learn and develop new skills.
 <br>
 ### My code example
@@ -36,7 +36,7 @@ Design_ok_studio 2020 - 2022
 - Ukrainian, russian - native 
 - English - A1 - reading, writing
 - Czech - A1 - reading, writing
-####SKILLS
+#### SKILLS
 - Design
 - Social media design
 - Creativity
