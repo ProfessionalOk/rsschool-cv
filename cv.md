@@ -1,6 +1,6 @@
 # Olha K
 #### CONTACTS
-+ Adress: Ukraine
++ Address: Ukraine
 + Phone: XXXXXXXXXX
 + E-mail: XXXXXXXXX
 + GitHub: [ProfessionalOk](https://github.com/ProfessionalOk)
