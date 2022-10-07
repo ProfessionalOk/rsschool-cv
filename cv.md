@@ -25,6 +25,8 @@ I am a graphic designer, social media designer.
 I am from Ukraine.  
 I work well in a team and I am very willing to learn and develop new skills.  
 
+Work example: [Case](https://drive.google.com/drive/folders/1zoeZnN5sxa_vHG4dZdK0ltTHpGzr3GD1?usp=sharing) 
+
 ### My code example
 
 ```Olga@DESKTOP-QADC0E9 MINGW64 ~/Wit-v1.-base (main)
