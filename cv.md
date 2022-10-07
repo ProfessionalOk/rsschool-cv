@@ -1,6 +1,6 @@
 # Olha K
 
-#### CONTACTS
+#### Contacts
 + Address: Ukraine
 + Phone: 
 + E-mail: 
@@ -20,7 +20,7 @@ Advertising agency GRIS
 Design_ok_studio  
 2020 - 2022  
 
-  ### About me
+### About me
 I am a graphic designer, social media designer.  
 I am from Ukraine.  
 I work well in a team and I am very willing to learn and develop new skills.  
@@ -42,12 +42,12 @@ Olga@DESKTOP-QADC0E9 MINGW64 ~/Wit-v1.-base (feature/TASK-1.0)
 $ git checkout -b feature/TASK-1.0
 fatal: a branch named 'feature/TASK-1.0' already exists```
   
-#### LANGUAGE 
+### Language 
 - English - A1 - reading, writing
 - Czech - A1 - reading, writing
 - Ukrainian, russian - native
 
-#### SKILLS
+### Skills
 - Design
 - Social media design
 - Creativity
