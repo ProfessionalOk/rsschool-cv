@@ -7,21 +7,23 @@
 + GitHub: [ProfessionalOk](https://github.com/ProfessionalOk)
 + My portfolio: [Design](https://drive.google.com/drive/folders/1PAg61d4u-nBKRxdQWawQf2IA4cfccHcs?usp=sharing)
 
+### Job
++ **Graphic designer**  
+Design studio Fotosfera  
+2021 - 2022 
+
++ **Advertising manager, account manager**  
+Advertising agency GRIS  
+2015 - 2020  
+
++ **Social media designer**  
+Design_ok_studio  
+2020 - 2022  
+
   ### About me
 I am a graphic designer, social media designer.  
 I am from Ukraine.  
 I work well in a team and I am very willing to learn and develop new skills.  
-
-### Job
-+ **Graphic designer**  
-Design studio Fotosfera  
-2021 - 2022  
-+ **Advertising manager, account manager**  
-Advertising agency GRIS  
-2015 - 2020  
-+ **Social media designer**  
-Design_ok_studio  
-2020 - 2022  
 
 ### My code example
 
