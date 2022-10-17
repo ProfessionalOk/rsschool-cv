@@ -27,20 +27,6 @@ I work well in a team and I am very willing to learn and develop new skills.
 
 ### Work example  
 [My case](https://drive.google.com/drive/folders/1zoeZnN5sxa_vHG4dZdK0ltTHpGzr3GD1?usp=sharing) 
-
-### My code example
-
-```Olga@DESKTOP-QADC0E9 MINGW64 ~/Wit-v1.-base (main)
-$ git branch
-* main
-
-Olga@DESKTOP-QADC0E9 MINGW64 ~/Wit-v1.-base (main)
-$ git checkout -b feature/TASK-1.0
-Switched to a new branch 'feature/TASK-1.0'
-
-Olga@DESKTOP-QADC0E9 MINGW64 ~/Wit-v1.-base (feature/TASK-1.0)
-$ git checkout -b feature/TASK-1.0
-fatal: a branch named 'feature/TASK-1.0' already exists```
   
 ### Language 
 - English - A1 - reading, writing
